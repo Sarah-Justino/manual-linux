@@ -1,7 +1,7 @@
 # manual-linux
 
 ***Primeiro passo***
-![passo 1](passo1.png)
+![passo 1](Passo1.png)
 
 ***Segundo passo***
 ![passo2](passo2.png)
