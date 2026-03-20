@@ -4,41 +4,41 @@
 ![passo 1](Passo1.png)
 
 ***Segundo passo***
-![passo2](passo2.png)
+![passo2](Passo2.png)
 
 ***Terceiro passo***
-![passo3](passo3.png)
+![passo3](Passo3.png)
 
 ***Quarto passo***
-![passo4](passo4.png)
+![passo4](Passo4.png)
 
 ***Quinto passo***
-![passo5](passo5.png)
+![passo5](Passo5.png)
 
 ***Sexto passo***
-![passo6](passo6.png)
+![passo6](Passo6.png)
 
 ***Sétimo passo**
-![passo7](passo7.png)
+![passo7](Passo7.png)
 
 ***Oitavo passo***
-![passo8](passo8.png)
+![passo8](Passo8.png)
 
 ***Nono passo***
-![passo9](passo9.png)
+![passo9](Passo9.png)
 
 ***Décimo passo***
-![passo10](passo10.png)
+![passo10](Passo10.png)
 
 ***Décimo primeiro passo***
-![passo11](passo11.png)
+![passo11](Passo11.png)
 
 ***Décimo segundo passo***
-![passo12](passo12.png)
+![passo12](Passo12.png)
 
 ***Décimo terceiro passo***
-![passo13](passo13.png)
+![passo13](Passo13.png)
 
 ***Décimo quarto passo***
-![passo14](passo14.png)
+![passo14](Passo14.png)
 
